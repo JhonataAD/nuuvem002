@@ -1,0 +1,56 @@
+{
+   "usuarios": {
+     "id": 1,
+     "email": "teste@email.com",
+     "password": "teste@123"
+   },
+   "informacoes": [
+     {
+       "id": 1,
+       "foto": "https://github.com/JhonataAD.png",
+       "nome": "Jhonata",
+       "cargo": "Desenvolvedor",
+       "resumo": "OLá"
+     }
+   ],
+   "experiencias": [
+     {
+       "id": 9,
+       "titulo": "Sistema de Informacao",
+       "descricao": "Programador",
+       "tipo": "profissional",
+       "anoInicio": "2022",
+       "anoFim": "2025"
+     },
+     {
+       "id": 10,
+       "titulo": "Programa comeia Acadmy",
+       "descricao": "Estudante",
+       "tipo": "academico",
+       "anoInicio": "2023",
+       "anoFim": "2023"
+     },
+     {
+       "id": 11,
+       "titulo": "Etical Etiquetas",
+       "descricao": "Cuidar da produção das peças.",
+       "tipo": "profissional",
+       "anoInicio": "2019",
+       "anoFim": "2022"
+     }
+   ],
+   "portfolio": [
+     {
+       "id": 1,
+       "titulo": "Densevolver de Software",
+       "imagem": "https://github.com/JhonataAD.png",
+       "link": "https://github.com/JhonataAD"
+     },
+     {
+       "id": 2,
+       "titulo": "Loja virtual",
+       "imagem": "https://github.com/JhonataAD.png",
+       "link": "https://jhonataad.github.io/LojaVirtual/"
+     }
+   ]
+ }
